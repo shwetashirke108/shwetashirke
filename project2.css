@@ -1,0 +1,46 @@
+#a1
+{
+    background-color: aqua;
+    height: 250px;
+    width:auto;
+
+}
+
+#a2
+{
+    background-color:brown;
+    height:350px;
+    width:525px;
+    float:left;
+
+
+}
+
+#a3
+{
+    background-color:cornflowerblue;
+    height:350px;
+    width:525px;
+    float:left;
+
+
+}
+
+#a4
+{
+    background-color:crimson;
+    height:350px;
+    width:508px;
+    float:right;
+
+
+}
+.a5
+{
+    background-image: url(kolhapur.jpg);
+    height: 300px;
+    width:506px;
+    float:right;
+
+}
+
